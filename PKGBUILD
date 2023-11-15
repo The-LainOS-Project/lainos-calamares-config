@@ -1,10 +1,10 @@
-# Maintainer: Grayson Giles <amnesia1337@proton.me>
-pkgname=lainos-calamares-config
+# Maintainer: Mauricio de Lima <emauricio@uai21.com>
+pkgname=archiso-calamares-config
 pkgver=73
 pkgrel=1
-pkgdesc="Calamares for LainOS"
+pkgdesc="Calamares for Archiso"
 arch=('any')
-url="https://github.com/The-LainOS-Project/"
+url="https://gitlab.com/uaiso/labs/uarchiso"
 license=('GPL3')
 makedepends=('git')
 provides=("${pkgname}")
