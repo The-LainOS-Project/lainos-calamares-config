@@ -1,12 +1,12 @@
 pkgbase = lainos-calamares-config
-	pkgdesc = Calamares for lainos
+	pkgdesc = Calamares for Archiso
 	pkgver = 73
 	pkgrel = 1
 	url = https://gitlab.com/uaiso/labs/uarchiso
 	arch = any
 	license = GPL3
 	makedepends = git
-	provides = lainos-calamares-config
+	provides = archiso-calamares-config
 	options = !strip
 	options = !emptydirs
 	source = archiso-calamares-config::git+https://gitlab.com/uaiso/labs/uarchiso/archiso-calamares-config
