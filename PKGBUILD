@@ -2,7 +2,7 @@
 pkgname=lainos-calamares-config
 pkgver=73
 pkgrel=1
-pkgdesc="Calamares for Archiso"
+pkgdesc="Calamares for LainOS"
 arch=('any')
 url="https://github.com/The-LainOS-Project"
 license=('GPL3')
