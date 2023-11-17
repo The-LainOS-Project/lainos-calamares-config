@@ -26,31 +26,7 @@ Presentation
     }
 
     ImageSlide {
-        src: "slide01.png"
-    }
-
-    ImageSlide {
         src: "slide02.png"
-    }
-
-    ImageSlide {
-        src: "slide03.png"
-    }
-
-    ImageSlide {
-        src: "slide04.png"
-    }
-
-    ImageSlide {
-        src: "slide05.png"
-    }
-
-    ImageSlide {
-        src: "slide06.png"
-    }
-
-    ImageSlide {
-        src: "slide07.png"
     }
 
 }
