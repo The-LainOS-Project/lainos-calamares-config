@@ -1,8 +1,0 @@
-[core]
-	repositoryformatversion = 0
-	filemode = true
-	bare = true
-[remote "origin"]
-	url = https://gitlab.com/uaiso/labs/uarchiso/archiso-calamares-config
-	fetch = +refs/*:refs/*
-	mirror = true
