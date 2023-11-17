@@ -9,7 +9,7 @@ pkgbase = archiso-calamares-config
 	provides = archiso-calamares-config
 	options = !strip
 	options = !emptydirs
-	source = archiso-calamares-config::git+https://gitlab.com/uaiso/labs/uarchiso/archiso-calamares-config
+	source = lain-calamares-config::git+https://github.com/The-LainOS-Project/lainos-calamares-config
 	sha256sums = SKIP
 
 pkgname = lainos-calamares-config
