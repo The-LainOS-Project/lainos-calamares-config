@@ -18,9 +18,9 @@ navigation: widget
 strings:
     productName:         LainOS
     shortProductName:    Generic
-    version:             2023.11 "ACCELA"
-    shortVersion:        2023.11
-    versionedName:       LainOS 2023.11 "ACCELA"
+    version:             2023.12 "ACCELA"
+    shortVersion:        2023.12
+    versionedName:       LainOS 2023.12 "ACCELA"
     shortVersionedName:  LainOS
     bootloaderEntryName: Generic
 
