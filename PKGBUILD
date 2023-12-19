@@ -1,4 +1,4 @@
-# Maintainer: Grayson Giles <amnesia1337.proton.me>
+# Maintainer: Grayson Giles <amnesia1337 at proton.me>
 pkgname=lainos-calamares-config
 pkgver=73
 pkgrel=1
